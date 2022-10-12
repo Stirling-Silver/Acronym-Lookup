@@ -6,3 +6,4 @@ function btnClicked() {
   // Input
   let name = document.getElementById("char-in").value;
 }
+
