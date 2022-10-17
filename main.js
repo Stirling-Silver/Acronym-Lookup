@@ -6,6 +6,7 @@ document.getElementById("btn").addEventListener("click", btnClicked);
 
 function btnClicked() {
   // Input
+  console.log
   let name = document.getElementById("acro-in").value;
 
   if (name === "RSVP") {
