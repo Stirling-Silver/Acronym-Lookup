@@ -25,14 +25,11 @@ function btnClicked() {
   } else if (name === "IMO") {
     document.getElementById("Acronym").innerHTML = "In My Opinion";
   } else if (name === "N/a") {
-    document.getElementById("Acronym").innerHTML =
-      "Not Available / Not Applicable";
+    document.getElementById("Acronym").innerHTML = "Not Available / Not Applicable";
   } else if (name === "N/A") {
-    document.getElementById("Acronym").innerHTML =
-      "Not Available / Not Applicable";
+    document.getElementById("Acronym").innerHTML = "Not Available / Not Applicable";
   } else if (name === "n/a") {
-    document.getElementById("Acronym").innerHTML =
-      "Not Available / Not Applicable";
+    document.getElementById("Acronym").innerHTML = "Not Available / Not Applicable";
   } else if (name === "AKA") {
     document.getElementById("Acronym").innerHTML = "Also Known As";
   } else if (name === "DIY") {
